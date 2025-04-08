@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(234, 123, 190);
+    border:none;
+}
+
+h1{
+    color: rgb(226, 8, 164);
+    border:dashed;
+}
+
+.titulo{ 
+    color: rgb(255, 0, 225);
+    text-align: center;
+}
