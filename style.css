@@ -12,3 +12,10 @@ h1{
     color: rgb(255, 0, 225);
     text-align: center;
 }
+button{
+    color: rgb(240, 14, 153);
+    font-size: large;
+}
+.imagem-dino{
+    width: 200px;
+}
